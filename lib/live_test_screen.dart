@@ -20,10 +20,19 @@ class LiveTestScreen extends StatelessWidget {
               maxLength: 11,
               cursorColor: Colors.deepPurple,
               decoration: InputDecoration(
-                hintStyle: TextStyle(color: Colors.red),
-
+                hintText: 'Hasan',
                 border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(15),
+                  borderRadius: BorderRadius.circular(8),
+                ), // Content Padding
+              ),
+            ),
+            TextField(
+              keyboardType: TextInputType.text,
+              cursorColor: Colors.deepPurple,
+              decoration: InputDecoration(
+                hintText: '01745-777777',
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(8),
                 ), // Content Padding
               ),
             ),

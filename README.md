@@ -6,7 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-App Screenshot
-
-![Live Test](live_test.png)
+App Screenshot - Live Test
 

@@ -8,5 +8,5 @@ This project is a starting point for a Flutter application.
 
 App Screenshot
 
-![Live Test](live_test.jpg)
+![Live Test](live_test.png)
 
